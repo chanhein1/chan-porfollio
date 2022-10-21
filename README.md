@@ -1,7 +1,6 @@
 # chan-porfollio
 This Portfolio is a small project using HTML / CSS and Bootstrap. I will be using this to show my projects! <br>
-[Live Demo](http://127.0.0.1:5500/index.html#)<br>
-[Replit link](https://chan-porfollio.chanhein1.repl.co)
+[Live Demo](https://chan-porfollio.chanhein1.repl.co)<br>
 
 ## Screenshot:
 ![image](https://user-images.githubusercontent.com/112149789/196882175-b4f51f84-1d98-4189-b507-a5ba1706f33b.png)
