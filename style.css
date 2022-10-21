@@ -41,7 +41,10 @@ About
 
 
 **********/
-
+div#about {
+    position: relative;
+    right: 3vw;
+}
 
 #about{
     margin: 60px auto;
@@ -91,7 +94,10 @@ About
 projects
 
 ******************/
-
+div#Projects{
+    position:relative;
+    right:4vw;
+}
 
 #projects{
     margin: 60px auto;
